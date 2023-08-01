@@ -26,9 +26,7 @@ If you seek a dynamic and resourceful Python developer who can seamlessly integr
 
 **Let's build something exceptional!** Get in touch, and let's embark on an exciting journey of coding brilliance.
 
-Thank you for visiting my GitHub profile, and I look forward to connecting with you soon. **Happy coding!** 🐍💻🚀
-ow to reach me ...
-
+Thank you for visiting my GitHub profile, and I look forward to connecting with you soon. **Happy coding!**
 <!---
 nupe-dev/nupe-dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
